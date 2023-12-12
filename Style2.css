@@ -1,0 +1,40 @@
+.card .card-body .card-text {
+	text-align: center;
+}
+.card .card-body .btn.btn-primary {
+    align-content: center;
+    font-size: small;
+}
+.card .card-body .card-title {
+	font-size: large;
+	text-align: center;
+    font-weight: bold;
+}
+.col-xl-6 .card .img-fluid {
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.card .card-body table {
+	margin-right: auto;
+	margin-left: auto;
+}
+.col-xl-6 .card span {
+	border: 1px solid black;
+	width: 15%;
+	text-align: center;
+	background-color: #002040;
+	color: #fff;
+}
+.container-fluid h1 {
+	text-align: center;
+}
+.row .col-xl-6 .card {
+	border: none;
+}
+
+
+.col-xl-6 form .btn.btn-primary {
+	background-color: #002040;
+}

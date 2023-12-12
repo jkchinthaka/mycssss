@@ -1,0 +1,118 @@
+.card {
+  width: 1000px;
+  margin: 0 10px 10px 0;
+	border: none;
+	
+}
+
+.card img {
+  width: 90%;
+  height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card-body {
+  padding: 10px;
+	text-align: center;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border-color: #007bff;
+}
+
+.container-fluid .card .img-fluid {
+	float: left;
+	overflow: hidden;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+
+.container-fluid .card .card-body {
+	
+}
+.container-fluid .card {
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	width: auto;
+}
+.row .col-xl-4 .card.col-md-4.col-xl-11 {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.image-container {
+  position: relative; 
+}
+
+.image-button {
+	display: flex;
+	justify-content: center;
+  position: absolute; 
+  top: 50%; 
+  transform: translateY(-50%); 
+  left: 50%; 
+  transform: translateX(-50%);
+  background-color: #002040; 
+  border: none; 
+  cursor: pointer;
+color: #fff;
+}
+
+.card .card-body p {
+	text-align: center;
+}
+.card .card-body table {
+	display: flex;
+	justify-content: center;
+	text-align: left;
+	border: none;
+	
+}
+.card .card-body .btn.btn-primary {
+	background-color: #002040;
+}
+.col-xl-4 .card.col-md-4.col-xl-11 button {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table tr td {
+	width: 200px;
+	height: 30px;
+}
+.col-xl-4 .card span {
+	border: 1px solid black;
+	width: 15%;
+	text-align: center;
+	background-color: #002040;
+	color: #fff;
+}
+
+tr td .rounded {
+	width: 15px;
+	height: 15px
+}
+
+
+.col-xl-4 .card.col-md-4.col-xl-11 a {
+	color: #fff;
+}
+
+
